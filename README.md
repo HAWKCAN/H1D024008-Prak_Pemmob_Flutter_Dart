@@ -33,10 +33,10 @@ Pertemuan kedua memberikan pemahaman mendasar mengenai kerangka kerja Flutter da
 **Tanggal**: Selasa, 15 September 2026  
 **Topik:** Routes, Side Menu, Login, dan Local Storage
 
-![Halaman Login](docs/login_page.png)
-![Halaman Home](docs/home_page.png)
+![Halaman Login](docs/loginpage.png)
+![Halaman Home](docs/homepage.png)
 ![Side Menu](docs/sidemenu.png)
-![Halaman About](docs/about_page.png)
+![Halaman About](docs/aboutpage.png)
 
 **Yang Dikerjakan:**
 - **Halaman Login (`login_page.dart`)**: Membuat form login menggunakan `StatefulWidget` dengan `TextEditingController` untuk username dan password, menampilkan `AlertDialog` hasil login, serta menyimpan username ke local storage menggunakan package `shared_preferences` sebelum berpindah ke halaman Home dengan `Navigator.push`.
