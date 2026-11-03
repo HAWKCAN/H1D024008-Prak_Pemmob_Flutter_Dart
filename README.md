@@ -25,7 +25,7 @@
 - **List Data Produk (`produk_page.dart`)**: Membuat tampilan daftar produk menggunakan `ListView`, `Card`, dan `ListTile` untuk menampilkan sekumpulan item/data secara terstruktur.
 
 **Kesimpulan:**
-Pertemuan kedua memberikan pemahaman mendasar mengenai kerangka kerja Flutter dan bahasa pemrograman Dart. Mahasiswa mempelajari perbedaan antara `StatelessWidget` dan `StatefulWidget`, pengelolaan struktur tata letak (layout) UI dengan widget dasar (`Column`, `Row`, `Container`, `ListView`), serta mekanismenya dalam melakukan navigasi antar-layar dan *data passing* antar-widget.
+Pertemuan kedua memberikan pemahaman mendasar mengenai kerangka kerja Flutter dan bahasa pemrograman Dart. Saya mempelajari perbedaan antara `StatelessWidget` dan `StatefulWidget`, pengelolaan struktur tata letak (layout) UI dengan widget dasar (`Column`, `Row`, `Container`, `ListView`), serta mekanismenya dalam melakukan navigasi antar-layar dan *data passing* antar-widget.
 
 ---
 
@@ -45,4 +45,4 @@ Pertemuan kedua memberikan pemahaman mendasar mengenai kerangka kerja Flutter da
 - **Halaman About (`about_page.dart`)**: Membuat halaman tambahan menggunakan `StatelessWidget` dengan `Scaffold`, `AppBar`, dan teks di tengah layar, serta memasang `Sidemenu` pada properti `drawer` agar menu tetap dapat diakses dari halaman ini.
 
 **Kesimpulan:**
-Pertemuan ketiga memberikan pemahaman mengenai pembuatan sistem login sederhana, navigasi antar-halaman menggunakan route, dan pembuatan side menu dengan widget `Drawer`. Mahasiswa juga mempelajari penggunaan local storage melalui `shared_preferences` untuk menyimpan dan mengambil data username sehingga dapat ditampilkan di halaman lain.
+Pertemuan ketiga memberikan pemahaman mengenai pembuatan sistem login sederhana, navigasi antar-halaman menggunakan route, dan pembuatan side menu dengan widget `Drawer`. Saya juga mempelajari penggunaan local storage melalui `shared_preferences` untuk menyimpan dan mengambil data username sehingga dapat ditampilkan di halaman lain.
